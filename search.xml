@@ -37,7 +37,7 @@
       <link href="/2023/04/24/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
       <url>/2023/04/24/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo new  <span class="string">&quot;博客名&quot;</span> <span class="comment">#新建文章</span></span><br><span class="line"></span><br><span class="line">hexo c <span class="comment">#清理残余</span></span><br><span class="line">hexo g <span class="comment">#生成</span></span><br><span class="line">hexo s <span class="comment">#预览</span></span><br><span class="line">hexo d <span class="comment">#部署</span></span><br></pre></td></tr></table></figure><p>编辑器：typora</p><p>每次直接拷贝到文章的截图将会被自动保存到同名的文件夹下</p><p><img src="/../images/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/image-20240124150941698.png" alt="image-20240124150941698"></p>]]></content>
+        <content type="html"><![CDATA[<p>hexo new  “博客名” #新建文章</p><p>hexo c #清理残余<br>hexo g #生成<br>hexo s #预览<br>hexo d #部署</p><p>编辑器：typora</p><p>每次直接拷贝到文章的截图将会被自动保存到同名的文件夹下</p><p><img src="/../images/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/image-20240124150941698.png" alt="image-20240124150941698"></p>]]></content>
       
       
       <categories>
